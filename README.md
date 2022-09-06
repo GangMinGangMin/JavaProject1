@@ -1,1 +1,0 @@
-![](C:\Users\USER\checklist1.jpeg)
