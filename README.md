@@ -21,7 +21,9 @@
 
 ### [5. 단어 수정]
 ![5. 단어 수정](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/project1_final_5.jpeg)
-
+![5-1](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/pro2_final_5-1.jpeg)
+![5-2](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/pro2_final_5-2.jpeg)
+               
 ### [6. 단어 삭제]
 ![6. 단어 삭제](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/project1_final_6.jpeg)
 
