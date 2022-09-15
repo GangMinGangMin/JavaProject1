@@ -32,3 +32,6 @@
 
 ### [1. 최종 모든 단어 보기]
 ![1. 최종 모든 단어 보기](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/project1_final_1.jpeg)
+
+### [파일 내용]
+![파일 내용](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/pro1_final_file.jpeg)
