@@ -1,9 +1,6 @@
 package com.mycom.word;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -113,22 +110,35 @@ public class WordCRUD implements ICRUD{
 
             while(true) {
                 line = br.readLine();
-                if(line == null) break;
+                if (line == null) break;
 
                 String data[] = line.split("\\|");
-                int level = Integer.parseInt(data[0]);
+                int level = 0;
+                try {
+                    level = Integer.parseInt(data[0]);
+                } catch (NumberFormatException e) {
+                    e.printStackTrace();
+                }
                 String word = data[1];
                 String meaning = data[2];
-                list.add(new Word(0,level, word, meaning));
+                list.add(new Word(0, level, word, meaning));
                 count++;
             }
             br.close();
-            System.out.println("==>" + count + "개 로딩 완료!!!");
+            System.out.println("==> " + count + "개 로딩 완료!!!");
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
+    public void saveFile() {
+        try {
+            PrintWriter pr = new PrintWriter(new FileWriter("text.txt"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+    }
 }
 
 
