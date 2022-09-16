@@ -28,7 +28,9 @@
 ![6. 단어 삭제](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/project1_final_6.jpeg)
 
 ### [7. 파일 저장]
+![7. 파일 저장 전 단어추가](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/pro1_final_7-1.jpeg)
 ![7. 파일 저장](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/project1_final_7.jpeg)
+![7. 파일 변화](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/pro1_final_7-2.jpeg)
 
 ### [1. 최종 모든 단어 보기]
 ![1. 최종 모든 단어 보기](https://github.com/GangMinGangMin/JavaProject1/blob/master/Screenshot/project1_final_1.jpeg)
